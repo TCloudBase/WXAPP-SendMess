@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "openapi": [
+      "cloudbase.addDelayedFunctionTask"
+    ]
+  }
+}
+
+
